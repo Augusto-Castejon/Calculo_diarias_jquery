@@ -1,0 +1,21 @@
+body {
+    font-family: 'Poppins', Arial, sans-serif;
+    color: #c47a23;
+    font-size: medium;
+    margin: 50px;
+}
+
+h1 {
+    text-align: center;
+}
+
+li.link {
+    cursor: pointer;
+    text-decoration: underline;
+    color: orange !important;
+}
+
+footer {
+    margin-top: 20px;
+}
+
